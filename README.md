@@ -1,1 +1,43 @@
 # Task-b
+<!--
+Author: Jasper Myllymäki
+Date: 2025-09-25
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jasper Myllymäki - Personal Introduction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Jasper Myllymäki</h1>
+
+  <p>
+    Hello! My name is Jasper Myllymäki, and I am currently studying IT engineering  
+    I enjoy learning new technologies, solving technical problems, and building projects that improve my skills.  
+    In the future, I want to use my knowledge to work internationally and contribute to secure digital solutions.
+    I play Finnish baseball and some videogames including CS2
+  </p>
+
+  <h2>My Hobbies and Interests</h2>
+  <ul>
+    <li>Spend time with my family and friends</li>
+    <li>Playing video games</li>
+    <li>Playing Baseball</li>
+  </ul>
+
+  <p>
+    Check out one of my favorite websites:  
+    <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+  </p>
+
+  <h2>My Goals for This Course</h2>
+  <ol>
+    <li>Improve my skills in web development and HTML/CSS</li>
+    <li>Learn how to deploy applications using Azure</li>
+    <li>Build a strong foundation for future projects in cybersecurity</li>
+  </ol>
+</body>
+</html>
