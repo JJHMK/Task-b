@@ -1,0 +1,49 @@
+/*
+Author: Jasper Myllymäki
+Date: 2025-09-25
+*/
+
+/* Page background */
+body {
+  background-color: #f0f8ff; /* light blue */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Main heading */
+h1 {
+  color: #2a4d69;
+  font-size: 2.5em;
+}
+
+/* Paragraphs */
+p {
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Unordered list */
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+  color: #444;
+}
+
+/* Ordered list */
+ol {
+  list-style-type: decimal-leading-zero;
+  padding-left: 20px;
+  color: #444;
+}
+
+/* Links */
+a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+}
